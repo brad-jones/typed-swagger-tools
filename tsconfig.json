@@ -1,12 +1,10 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
     "noImplicitAny": true,
-    "sourceMap": false
+		"outDir": "build",
+		"rootDir": "src"
   },
   "files": [
-    "swagger-tools.d.ts",
-    "typings/main.d.ts"
+    "src/swagger-tools.d.ts"
   ]
 }

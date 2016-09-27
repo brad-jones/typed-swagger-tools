@@ -1,8 +1,8 @@
 // Type definitions for swagger-tools 0.10.1
 // Project: https://github.com/apigee-127/swagger-tools
-// Definitions: https://github.com/swissspidy/typed-swagger-tools
+// Definitions: https://github.com/jzorn/typed-swagger-tools
 
-import {Request, RequestHandler} from 'express'
+import {Request, RequestHandler} from '@types/express'
 
 declare namespace swagger {
 	export interface IRouterOptions {
