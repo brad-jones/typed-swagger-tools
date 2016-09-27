@@ -1,5 +1,5 @@
 {
-	"name": "typed-swagger-tools",
+	"name": "@types/swagger-tools",
 	"version": "0.10.1",
 	"description": "Type definition for [swagger-tools](https://github.com/apigee-127/swagger-tools)",
 	"scripts": {
