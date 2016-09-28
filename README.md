@@ -7,7 +7,7 @@ Install using `npm` (`npm install --save-dev jzorn/typed-swagger-tools@0.10.1`)
 ```
 {
   "devDependencies": {
-    "@types/swagger-tools": "github:jzorn/typed-swagger-tools#0.10.1"
+    "@types/swagger-tools": "jzorn/typed-swagger-tools#0.10.1"
   }
 }
 ```
