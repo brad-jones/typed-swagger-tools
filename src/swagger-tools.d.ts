@@ -2,7 +2,7 @@
 // Project: https://github.com/apigee-127/swagger-tools
 // Definitions: https://github.com/jzorn/typed-swagger-tools
 
-import {Request, RequestHandler} from '@types/express'
+import {Request, RequestHandler} from 'express'
 
 declare namespace swagger {
 	export interface IRouterOptions {
